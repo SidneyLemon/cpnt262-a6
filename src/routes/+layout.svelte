@@ -8,7 +8,6 @@
 
 <nav>
   <ul>
-    <a href="home">Home</a>
     <a href="menu">Menu</a>
     <a href="blog">Blog</a>
   </ul>
