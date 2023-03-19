@@ -3,7 +3,7 @@
     <div>
       <a href="https://unsplash.com/">
         <img
-          src="static/images/berry-pancakes.jpg"
+          src="images/berry-pancakes.jpg"
           alt="berry pancakes"
           width="300"
           height="300"
@@ -17,7 +17,7 @@
     <div>
       <a href="https://unsplash.com/">
         <img
-          src="static/images/eggs-benny.jpg"
+          src="images/eggs-benny.jpg"
           alt="Eggs Benny"
           width="300"
           height="300"
@@ -29,7 +29,7 @@
     <div>
       <a href="https://unsplash.com/">
         <img
-          src="static/images/french-toast.jpg"
+          src="images/french-toast.jpg"
           alt="french toast"
           width="300"
           height="300"
@@ -42,7 +42,7 @@
     <div>
       <a href="https://unsplash.com/">
         <img
-          src="static/images/ham-benny.jpg"
+          src="images/ham-benny.jpg"
           alt="Ham Benny"
           width="300"
           height="300"
@@ -53,12 +53,7 @@
     </div>
     <div>
       <a href="https://unsplash.com/">
-        <img
-          src="static/images/oatmeal.jpg"
-          alt="Oatmeal"
-          width="300"
-          height="300"
-        />
+        <img src="images/oatmeal.jpg" alt="Oatmeal" width="300" height="300" />
         <h3>Oatmeal</h3>
         <p>Oatmeal served with fruit</p>
       </a>
@@ -66,7 +61,7 @@
     <div>
       <a href="https://unsplash.com/">
         <img
-          src="static/images/scrambled-eggs.jpg"
+          src="images/scrambled-eggs.jpg"
           alt="Scrambled Eggs"
           width="300"
           height="300"
